@@ -1,0 +1,309 @@
+   50  cd ..
+   51  pwd
+   52  cd ~
+   53  cd desktop
+   54  cd Fintech-Workspace
+   55  cd Python_Project
+   56  conda activate dev
+   57   python hello_python.py
+   58  conda deactivate
+   59  pwd
+   60  cd~
+   61  cd ~
+   62  pwd
+   63  cd desktop
+   64  ls
+   65  cd Fintech-Workspace
+   66  ls
+   67  cd Python_Project
+   68  ls
+   69  cd ~
+   70  cd downloads
+   71  cd 01_Hello_Variable_World
+   72  ls
+   73  cd unsolved
+   74  ls
+   75  conda activate
+   76  conda activate dev
+   77  python(hello_variable_attempt.py)
+   78  cd ~
+   79  ls
+   80  cd desktop
+   81  cd Fintech-Workspace
+   82  ls
+   83  cd 02_Listing_Assets
+   84  ls
+   85  cd Unsolved
+   86  ls
+   87  python(listing_assets.py)
+   88  pwd
+   89  cd desktop
+   90  ls
+   91  cd Fintech-Workspace
+   92  ls
+   93  conda activate
+   94  activate conda
+   95  cd~
+   96  cd ~
+   97  pwd
+   98  cd desktop
+   99  cd Fintech-Workspcae
+  100  ls
+  101  cd Fintech-Workspace
+  102  ls
+  103  cd 01_Conditional_Statement
+  104  ls
+  105  conda activate dev
+  106  cd solved
+  107  ls
+  108  python (conditional_statement.py)
+  109  conda deactivate 
+  110  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/Python_Project/hello_python.py
+  111  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/Python_Project/hello_python.py
+  112  /usr/bin/python3 /Users/nahinhayat/Downloads/01_Hello_Variable_World/Unsolved/hello_variable_attempt.py
+  113  /usr/bin/python3 /Users/nahinhayat/Downloads/01_Hello_Variable_World/Unsolved/hello_variable_attempt.py
+  114  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/Python_Project/hello_python.py
+  115  /usr/bin/python3 /Users/nahinhayat/Downloads/01_Hello_Variable_World/Unsolved/hello_variable_attempt.py
+  116  /usr/bin/python3 /Users/nahinhayat/Downloads/01_Hello_Variable_World/Unsolved/hello_variable_attempt.py
+  117  /usr/bin/python3 /Users/nahinhayat/Downloads/01_Hello_Variable_World/Solved/hello_variable_world.py
+  118  /usr/bin/python3 /Users/nahinhayat/Downloads/01_Hello_Variable_World/Unsolved/hello_variable_attempt.py
+  119  /usr/bin/python3 /Users/nahinhayat/Downloads/01_Hello_Variable_World/Unsolved/hello_variable_attempt.py
+  120  /usr/bin/python3 /Users/nahinhayat/Downloads/01_Hello_Variable_World/Unsolved/hello_variable_attempt.py
+  121  /usr/bin/python3 /Users/nahinhayat/Downloads/01_Hello_Variable_World/Unsolved/hello_variable_attempt.py
+  122  /usr/bin/python3 /Users/nahinhayat/Downloads/01_Hello_Variable_World/Unsolved/hello_variable_attempt.py
+  123  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/02_Listing_Assets/Unsolved/listing_assets.py
+  124  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/02_Listing_Assets/Unsolved/listing_assets.py
+  125  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  126  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+  127  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/02_Listing_Assets/Unsolved/listing_assets.py
+  128  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/01_Conditional_Statement/Unsolved/conditional_statement.py
+  129  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  130  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  131  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  132  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  133  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  134  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+  135  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  136  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  137  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/03_Split_Second_Homebuying/Solved/split_second_homebuying.py
+  138  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+  139  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  140  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/02_Returned_Goods/Unsolved/returned_goods.py
+  141  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/02_Returned_Goods/Unsolved/returned_goods.py
+  142  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/02_Returned_Goods/Solved/returned_goods.py
+  143  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/02_Returned_Goods/Unsolved/returned_goods.py
+  144  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/02_Returned_Goods/Unsolved/returned_goods.py
+  145  cd desktop 
+  146  cd Fintech-Workspace
+  147  ls
+  148  cd 01_Conditional_Statement
+  149  ls
+  150  cd unsolved
+  151  ls
+  152  conda activate
+  153  python conditional_statement.py
+  154  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/03_Split_Second_Homebuying_Part_2/Solved/split_second_part_2.py
+  155  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/03_Split_Second_Homebuying_Part_2/Solved/split_second_part_2.py
+  156  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  157  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  158  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  159  clear
+  160  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/02_Pathways_to_Success_Part_1/Solved/pathways_to_success.py
+  161  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  162  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  163  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  164  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  165  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  166  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  167  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  168  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/03_Pathways_to_Success_Part_2/Solved/pathways_to_success_part_2.py
+  169  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/03_Pathways_to_Success_Part_2/Solved/pathways_to_success_part_2.py
+  170  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/03_Pathways_to_Success_Part_2/Solved/pathways_to_success_part_2.py
+  171  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/03_Pathways_to_Success_Part_2/Solved/pathways_to_success_part_2.py
+  172  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  173  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/01_Loan_Qualifier_Financial_Calculations/Solved/app.py
+  174  cd ~
+  175  ssh -T git@github.com
+  176  clear
+  177  cd ~/.ssh
+  178  ls-al
+  179  la -al
+  180  ls -al
+  181  cat id_rsa.pub
+  182  cd ~
+  183  clear
+  184  cd desktop
+  185  git -v
+  186  git-v
+  187  git -v
+  188  git -V
+  189  git --version
+  190  clear
+  191  conda activatre dev
+  192  conda activate dev
+  193  pip -V
+  194  pip freeze
+  195  pip install fire
+  196  pip install questionary
+  197  clear
+  198  cd desktop
+  199  git clone git@smu.bootcampcontent.com:SMU-Coding-Bootcamp/SMU-VIRT-FIN-PT-02-2023-U-B.git
+  200  git clone git@github.com:nahinhayat/Module1Challenge.git
+  201  cd Module1Challenge
+  202  code .
+  203  git code .
+  204  /usr/bin/python3 /Users/nahinhayat/Desktop/SMU-VIRT-FIN-PT-02-2023-U-B/Live-Lessons/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  205  /usr/bin/python3 /Users/nahinhayat/Desktop/SMU-VIRT-FIN-PT-02-2023-U-B/Live-Lessons/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  206  /usr/bin/python3 "/Users/nahinhayat/Desktop/Fintech-Workspace/Class_1_Activities 2/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  207  /usr/bin/python3 "/Users/nahinhayat/Desktop/Fintech-Workspace/Class_1_Activities 2/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  208  /usr/bin/python3 "/Users/nahinhayat/Desktop/Fintech-Workspace/Class_1_Activities 2/03_Inst_ATM_Application_Logic/Unsolved/atm.py"
+  209  /usr/bin/python3 /Users/nahinhayat/Downloads/Starter_Code/loan_analyzer.py
+  210  /usr/bin/python3 /Users/nahinhayat/Downloads/Starter_Code/loan_analyzer.py
+  211  /usr/bin/python3 /Users/nahinhayat/Downloads/Starter_Code/loan_analyzer.py
+  212  /usr/bin/python3 /Users/nahinhayat/Downloads/Starter_Code/loan_analyzer.py
+  213  /usr/bin/python3 /Users/nahinhayat/Downloads/Starter_Code/loan_analyzer.py
+  214  /usr/bin/python3 /Users/nahinhayat/Downloads/Starter_Code/loan_analyzer.py
+  215  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  216  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  217  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  218  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  219  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  220  clear
+  221  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  222  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  223  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  224  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  225  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  226  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  227  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  228  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  229  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  230  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  231  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  232  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  233  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  234  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  235  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  236  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  237  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  238  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  239  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  240  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  241  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  242  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  243  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  244  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  245  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  246  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  247  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  248  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  249  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  250  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  251  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  252  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  253  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  254  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  255  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  256  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  257  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  258  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  259  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  260  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  261  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  262  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  263  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  264  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  265  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  266  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  267  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  268  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  269  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  270  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  271  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  272  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  273  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  274  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  275  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  276  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  277  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  278  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  279  /usr/bin/python3 /Users/nahinhayat/Desktop/Module1Challenge/loan_analyzer.py
+  280  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/cli.py
+  281  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/cli.py
+  282  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/cli.py
+  283  cd desktop
+  284  cd Module1Challenge
+  285  ls
+  286  cd loan_analyzer.py
+  287  git add .
+  288  git commit -M"Testing updating repo"
+  289  git push
+  290  git commit -m "testing update"
+  291  git push
+  292  cd ..
+  293  ls
+  294  cd SMU-VIRT-FIN-PT-02-2023-U-B
+  295  git pull
+  296  cd ..
+  297  cd Module1Challenge
+  298  git add .
+  299  git commit -m "This is the final update for this challenge"
+  300  git push
+  301  cd ~
+  302  pip install fire
+  303  cd desktop
+  304  ls
+  305  cd Fintech-Workspace
+  306  pip install fire
+  307  pip install questionary
+  308  cd ~
+  309  git config --global user.name nahinhayat
+  310  git config --global user.email nahinhayat@gmail.com
+  311  conda activate dev
+  312  conda list pandas
+  313  conda list jupyterlab
+  314  python -m ipykernel install --user --name dev --display-name "Python (dev)"
+  315  jupyterlab
+  316  jupyter lab
+  317  conda deactivate
+  318  conda activate 
+  319  pip install fire
+  320  conda activate
+  321  conda avtivate dev
+  322  conda activate dev
+  323  pip install fire
+  324  cd desktop
+  325  cd Fintech-Workspace
+  326  conda cli.py
+  327  conda run cli.py
+  328  conda deactivate
+  329  jupyter lab
+  330  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/cli.py
+  331  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/cli.py
+  332  pip install fire
+  333  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/cli.py
+  334  code .
+  335  /usr/bin/python3 /Users/nahinhayat/Desktop/Fintech-Workspace/cli.py
+  336  conda install fire
+  337  python 
+  338  cat ~/.bash_profile
+  339  code .
+  340  /Users/nahinhayat/opt/anaconda3/bin/python /Users/nahinhayat/Desktop/Fintech-Workspace/cli.py
+  341  source activate base
+  342  /Users/nahinhayat/opt/anaconda3/bin/python "/Users/nahinhayat/Desktop/Module2Challenge/Starter_Code 2/loan_qualifier_app/app.py"
+  343  jupyter lab
+  344     pwd
+  345  close
+  346  source activate base
+  347  /Users/nahinhayat/opt/anaconda3/bin/python "/Users/nahinhayat/Desktop/Module2Challenge/Starter_Code 2/loan_qualifier_app/app.py"
+  348  /Users/nahinhayat/opt/anaconda3/bin/python "/Users/nahinhayat/Desktop/Module2Challenge/Starter_Code 2/loan_qualifier_app/app.py"
+  349  /Users/nahinhayat/opt/anaconda3/bin/python "/Users/nahinhayat/Desktop/Module2Challenge/Starter_Code 2/loan_qualifier_app/app.py"
+  350  /Users/nahinhayat/opt/anaconda3/bin/python "/Users/nahinhayat/Desktop/Module2Challenge/Starter_Code 2/loan_qualifier_app/app.py"
+  351  /Users/nahinhayat/opt/anaconda3/bin/python "/Users/nahinhayat/Desktop/Module2Challenge/Starter_Code 2/loan_qualifier_app/app.py"
+  352  /Users/nahinhayat/opt/anaconda3/bin/python "/Users/nahinhayat/Desktop/Module2Challenge/Starter_Code 2/loan_qualifier_app/app.py"
+  353  /Users/nahinhayat/opt/anaconda3/bin/python "/Users/nahinhayat/Desktop/Module2Challenge/Starter_Code 2/loan_qualifier_app/app.py"
+  354  e/Users/nahinhayat/opt/anaconda3/bin/python "/Users/nahinhayat/Desktop/Module2Challenge/Starter_Code 2/loan_qualifier_app/app.py"
+  355  /Users/nahinhayat/opt/anaconda3/bin/python "/Users/nahinhayat/Desktop/Module2Challenge/Starter_Code 2/loan_qualifier_app/app.py"
+  356  /Users/nahinhayat/opt/anaconda3/bin/python "/Users/nahinhayat/Desktop/Module2Challenge/Starter_Code 2/loan_qualifier_app/app.py"
+  357  /Users/nahinhayat/opt/anaconda3/bin/python "/Users/nahinhayat/Desktop/Module2Challenge/Starter_Code 2/loan_qualifier_app/app.py"
+  358  /Users/nahinhayat/opt/anaconda3/bin/python "/Users/nahinhayat/Desktop/Module2Challenge/Starter_Code 2/loan_qualifier_app/app.py"

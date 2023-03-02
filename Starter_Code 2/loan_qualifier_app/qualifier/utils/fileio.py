@@ -30,10 +30,11 @@ def load_csv(csvpath):
     return data
 
 def save_csv(csvpath, data):
+    #writes the qualifying loans in a csv file
     output_path = Path(csvpath)
     with open(file = output_path, mode = 'w', newline = "") as csvfile:
         csvwriter = csv.writer(csvfile, delimiter=",")
         for info in data:
             csvwriter.writerow(info)
 
-    return f"The loans have been saved to qualifying_loans.csv"
+  

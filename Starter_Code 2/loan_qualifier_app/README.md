@@ -31,7 +31,7 @@ To use the loan qualifier application simply clone the repository and run the **
 python app.py
 ```
 
-Upon launching the loan qualifier application you will be greeted with the following prompts.
+Upon launching the loan qualifier application you will be greeted with the following prompts. If each is answered and criteria is met like below, the user will be able to save the qualifying loans to a csv file. The following is a link to an example: https://drive.google.com/file/d/1V0oyu3ktgOYqZb7a01AZ-ybw60kFfc-D/view?usp=sharing
 
 
 
