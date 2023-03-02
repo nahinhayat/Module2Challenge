@@ -6,12 +6,13 @@ This is a command line application to match applicants with qualifying loans.
 Example:
     $ python app.py
 """
+import csv
 import sys
 import fire
 import questionary
 from pathlib import Path
 
-from qualifier.utils.fileio import load_csv
+from qualifier.utils.fileio import load_csv, save_csv
 
 from qualifier.utils.calculators import (
     calculate_monthly_debt_ratio,
@@ -22,6 +23,7 @@ from qualifier.filters.max_loan_size import filter_max_loan_size
 from qualifier.filters.credit_score import filter_credit_score
 from qualifier.filters.debt_to_income import filter_debt_to_income
 from qualifier.filters.loan_to_value import filter_loan_to_value
+
 
 
 def load_bank_data():
@@ -108,12 +110,13 @@ def save_qualifying_loans(qualifying_loans):
     Args:
         qualifying_loans (list of lists): The qualifying bank loans.
     """
+
     if not qualifying_loans:
         sys.exit("There are currently no loans available to you.")
-    confirm_save = questionary.confirm("Would you like to save the available qualifying loans to a CSV?").ask()
-    if confirm_save == True:
-        export_path = questionary.text("Enter file path for location to save your loans")
-
+    confirm_save = questionary.confirm("Would you like to save the qualifying loans to a CSV?").ask()
+    if confirm_save:
+        csv_path = questionary.text("What is the file path location you would like to save the CSV to?").ask()
+        save_csv(csv_path, qualifying_loans)
 
 def run():
     """The main function for running the script."""
