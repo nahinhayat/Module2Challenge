@@ -1,7 +1,6 @@
-# Project Title
+# Loan Qualifier Application
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
-
+This project aims to allow the user to enter their own information such as: credit score, monthly debt, monthly income, desired loan amount, and home value. The program then lets the user know if they have loans that they qualify available to them and gives them the ability to save said loans to a CSV file. 
 ---
 
 ## Technologies
